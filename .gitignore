@@ -133,3 +133,6 @@ dmypy.json
 
 # Datasets folders
 datasets/
+
+# CSV
+.csv
